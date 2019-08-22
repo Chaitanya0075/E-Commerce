@@ -1,0 +1,69 @@
+body
+{
+	background-color: #000000;
+	background-image:url(Home.jpg);
+	background-size: cover;
+		font-family:Microsoft Phagspa;
+		text-decoration:none;
+}
+
+nav
+{
+	width: 100%;
+	height: 80px;
+	background-color: #00010;
+	line-height: 80px;
+}
+
+nav ul
+{
+	float: right;
+	margin-right: 20px;
+
+}
+
+nav ul li
+{
+	list-style-type: none;
+	font-family: "Tahoma";
+	display: inline-block;
+	
+}
+
+nav ul li a:hover
+{
+	background-color: #fff;
+	color : #333;
+	border-radius: 20px;
+}
+nav ul li a
+{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.5s ease;
+}
+
+h1
+{
+	padding: 10px;
+	font-size: 22px;
+	color:white;
+	font-family:Microsoft Phagspa;
+}
+
+a
+{
+	text-decoration: none;
+	color:#fff;
+}
+p
+{
+	padding: 10px;
+	font-size:16px;
+	color:white;
+	text-decoration: none;
+}
+
+
